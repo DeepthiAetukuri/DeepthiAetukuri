@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="profile.png" 
+    alt="Deepthi Aetukuri" 
+    width="180" 
+    style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Deepthi Aetukuri</h1>
 <h3 align="center">🚀 Data Science | AI & GenAI Enthusiast</h3>
 
