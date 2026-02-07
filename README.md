@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="profile.png" 
+    src="Deepthi.jpg" 
     alt="Deepthi Aetukuri" 
     width="180" 
     style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
